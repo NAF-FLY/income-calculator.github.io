@@ -1,1 +1,1 @@
-# income-calculator.github.io
+# Простенький калькулятор доходов
